@@ -27,7 +27,7 @@
 #define UPDATE_INTERVAL_MS 100
 
 #define FROZBOARDS_URL ""
-#define FROZLUNKY_URL "https://sashavol.github.io/Frozlunky/"
+#define FROZLUNKY_URL "https://spelunky-fyi.github.io/Frozlunky/"
 
 class DailyInstance {
 public:

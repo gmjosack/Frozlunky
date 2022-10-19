@@ -4,9 +4,9 @@ Seeds, Online Multiplayer, Custom Levels, and more for Spelunky HD!
 
 ## Installation
 
-Download `Frozlunky.exe` from https://github.com/sashavol/Frozlunky/releases/latest. It can be placed anywhere and launched once Spelunky is running.
+Download `Frozlunky.exe` from https://github.com/spelunky-fyi/Frozlunky/releases/latest. It can be placed anywhere and launched once Spelunky is running.
 
-Full Documentation is available at [https://sashavol.github.io/Frozlunky/](https://sashavol.github.io/Frozlunky/).
+Full Documentation is available at [https://spelunky-fyi.github.io/Frozlunky/](https://spelunky-fyi.github.io/Frozlunky/).
 
 ## Development
 
