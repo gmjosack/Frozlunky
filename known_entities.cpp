@@ -166,6 +166,7 @@ namespace KnownEntities {
 		(1068, "Maggot Critter")
 
 		//holdable objects
+		(92, "Landmine")
 		(112, "Rock")
 		(114, "Skull")
 		(120, "Boulder")
